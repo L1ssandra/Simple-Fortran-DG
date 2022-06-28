@@ -6,5 +6,6 @@
 3. 关于程序的详细说明可参见知乎笔记：https://zhuanlan.zhihu.com/p/533958396
 
 Reference：
+
 [1] Chi-Wang Shu, Discontinuous Galerkin Methods: General Approach and Stability.
 [2] Bernardo Cockburn, Chi-Wang Shu, The Runge–Kutta Discontinuous Galerkin Method for Conservation Laws V: Multidimensional Systems.
